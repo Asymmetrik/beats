@@ -1,0 +1,9 @@
+dashboards:
+- id: Filebeat-abacus-audit-Dashboard
+  file: Filebeat-abacus-audit.json
+- id: Filebeat-abacus-application-Dashboard
+  file: Filebeat-abacus-application.json
+- id: Filebeat-abacus-writer-Dashboard
+  file: Filebeat-abacus-writer.json
+- id: Filebeat-abacus-classification-Dashboard
+  file: Filebeat-abacus-classification.json

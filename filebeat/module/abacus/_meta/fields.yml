@@ -1,0 +1,9 @@
+- key: abacus
+  title: "abacus"
+  description: >
+    abacus Module
+  fields:
+    - name: abacus
+      type: group
+      description: >
+      fields:

@@ -3,6 +3,7 @@ This file is generated! See scripts/docs_collector.py
 ////
 
   * <<filebeat-modules-overview>>
+  * <<filebeat-module-abacus>>
   * <<filebeat-module-apache>>
   * <<filebeat-module-auditd>>
   * <<filebeat-module-cisco>>
@@ -36,6 +37,7 @@ This file is generated! See scripts/docs_collector.py
 --
 
 include::modules-overview.asciidoc[]
+include::modules/abacus.asciidoc[]
 include::modules/apache.asciidoc[]
 include::modules/auditd.asciidoc[]
 include::modules/cisco.asciidoc[]

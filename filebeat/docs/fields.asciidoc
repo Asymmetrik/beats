@@ -12,6 +12,7 @@ This file is generated! See _meta/fields.yml and scripts/generate_field_docs.py
 This document describes the fields that are exported by Filebeat. They are
 grouped in the following categories:
 
+* <<exported-fields-abacus>>
 * <<exported-fields-apache>>
 * <<exported-fields-auditd>>
 * <<exported-fields-beat>>
@@ -52,6 +53,18 @@ grouped in the following categories:
 * <<exported-fields-zeek>>
 
 --
+[[exported-fields-abacus]]
+== abacus fields
+
+abacus Module
+
+
+
+[float]
+== abacus fields
+
+
+
 [[exported-fields-apache]]
 == Apache fields
 

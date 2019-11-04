@@ -29,6 +29,7 @@ import (
 	_ "github.com/elastic/beats/filebeat/input/syslog"
 	_ "github.com/elastic/beats/filebeat/input/tcp"
 	_ "github.com/elastic/beats/filebeat/input/udp"
+	_ "github.com/elastic/beats/filebeat/module/abacus"
 	_ "github.com/elastic/beats/filebeat/module/apache"
 	_ "github.com/elastic/beats/filebeat/module/auditd"
 	_ "github.com/elastic/beats/filebeat/module/elasticsearch"

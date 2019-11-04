@@ -1,0 +1,9 @@
+module_version: 1.0
+
+var:
+  - name: paths
+    default:
+      - /data/writer/current/classification.log
+
+ingest_pipeline: ingest/pipeline.json
+input: config/writer.yml

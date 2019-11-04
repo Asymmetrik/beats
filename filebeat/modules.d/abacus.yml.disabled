@@ -1,0 +1,17 @@
+# Module: abacus
+# Docs: https://www.elastic.co/guide/en/beats/filebeat/7.2/filebeat-module-abacus.html
+
+- module: abacus
+  # All logs
+  audit:
+    enabled: true
+  application:
+    enabled: true
+  classification:
+    enabled: true
+  writer:
+    enabled: true
+
+    # Set custom paths for the log files. If left empty,
+    # Filebeat will choose the paths depending on your OS.
+    #var.paths:
